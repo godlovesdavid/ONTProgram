@@ -6,9 +6,6 @@ By David Hsu, currently in alpha phase
 What it is:
 Bible translation editor tool for the Word Software, with GUI, which allows easy transposing of word order in Bible verses.
 
-What it can do: 
-open existing .ont/.nt/.ot files and edit them using a helpful GUI. 
-
 How to use it: 
 1. click the open button
 2. select .ont/.nt/.ot file
