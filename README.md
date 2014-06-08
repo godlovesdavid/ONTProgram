@@ -1,6 +1,7 @@
 ONTProgram
-By David Hsu
 ==========
+
+By David Hsu
 
 What it is:
 Bible translation editor tool for the Word Software, with GUI, which allows easy transposing of word order in Bible verses.
@@ -12,6 +13,8 @@ How to use it:
 1. click the open button
 2. select .ont/.nt/.ot file
 3. enter the regular expression that describes one greek word, along with capture info (like $1) for translation, greek, strong's number, or morphology fields. 
+4. may select multiple words and move them around. 
+5. may also double click each word to edit them (along with their other aspects).
 
 
 Current bugs:
