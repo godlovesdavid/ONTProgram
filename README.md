@@ -1,7 +1,7 @@
 ONTProgram
 ==========
 
-By David Hsu
+By David Hsu, currently in alpha phase
 
 What it is:
 Bible translation editor tool for the Word Software, with GUI, which allows easy transposing of word order in Bible verses.
