@@ -7,12 +7,13 @@ What it is:
 Bible translation editor tool for the Word Software, with GUI, which allows easy transposing of word order in Bible verses.
 
 How to use it: 
-1. click the open button
-2. select .ont/.nt/.ot file
-3. enter the regular expression that describes one greek word, along with capture info (like $1) for translation, greek, strong's number, or morphology fields. 
-4. may select multiple words and move them around. 
-5. may also double click each word to edit them (along with their other aspects).
-
+1. place ONTProgram.jar and GreekUncial.otf in some directory
+2. open ONTProgram.jar
+3. click the open button
+4. select .ont/.nt/.ot file
+5. enter the regular expression that describes one greek word, along with capture info (like $1) for translation, greek, strong's number, or morphology fields. 
+6. may select multiple words and move them around. 
+7. may also double click each word to edit them (along with their other aspects).
 
 Current bugs:
 -regular expression dialog not showing text field locations properly, but sitll works
@@ -24,7 +25,7 @@ Current bugs:
 -moving toolbar may cause program to not function properly.
 
 
-This program uses Morphadorner.
+This program uses Natural Language Processing technology from Northwestern U, called Morphadorner.
 
 MorphAdorner License:
 The MorphAdorner client and server source code and data files fall under the following NCSA style license. Some of the incorporated code and data fall under different licenses as noted in the section third-party licenses below.
